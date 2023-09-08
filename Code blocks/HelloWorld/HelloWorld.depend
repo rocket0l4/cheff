@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1672164018 source:c:\users\aman singh\onedrive\desktop\code blocks\helloworld\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1672164733 source:c:\users\aman singh\onedrive\desktop\code blocks\helloworld\new file.c
+	<stdio.h>
+	<stdlib.h>
+
+1672235008 source:c:\users\aman singh\onedrive\desktop\code blocks\helloworld\stk.c
+	<stdio.h>
+	<conio.h>
+
+1672332321 source:c:\users\aman singh\onedrive\documents\3rd sem\dsa (lab)\q3.c
+	<stdio.h>
+
